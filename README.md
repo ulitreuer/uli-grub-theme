@@ -16,7 +16,7 @@ A clean, minimalist GRUB 2 theme designed for modern widescreen displays.
 
 ## Download
 
-The latest release is available as **v0.1.0**.
+The latest release is available as **v0.1.1**.
 
 You can either clone the repository:
 
