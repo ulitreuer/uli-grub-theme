@@ -14,9 +14,21 @@ A clean, minimalist GRUB 2 theme designed for modern widescreen displays.
 - Designed with widescreen and ultrawide displays in mind
 - Percentage-based layout for flexible positioning
 
+## Download
+
+The latest release is available as **v0.1.0**.
+
+You can either clone the repository:
+
+```bash
+git clone https://github.com/ulitreuer/uli-grub-theme.git
+cd uli-grub-theme
+```
+or download the repository as a ZIP file from GitHub.
+
 ## Installation
 
-Copy the theme files to your GRUB themes directory:
+From the repository directory, copy the theme files to your GRUB themes directory:
 
 ```bash
 sudo mkdir -p /boot/grub2/themes/uli
